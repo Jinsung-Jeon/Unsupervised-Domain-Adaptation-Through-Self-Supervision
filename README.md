@@ -1,39 +1,16 @@
-## 파이썬 날코딩으로 알고 짜는 딥러닝
+## Unsupervised Domain Adaptation Through Self-Supervision 논문구현
 
-> 기간 2020.01.16 ~      
-> 하루에 한 Chapter
+> 기간 2020.02.04 ~      
 
-## Study History
->Single Layer Perceptron
->* 2020/01/16
->    * Git 공부
->    * 실습환경 구성
->    * Chap1-회귀 분석 : 전복의 고리 수 추정 신경
->    
->* 2020/01/20
->    * Chap2-이진 판단 : 천체의 펄서 여부 판정 신경망
->
->* 2020/01/21
->    * Chap2-이진 판단 : 천체의 펄서 여부 판정 신경망
->        * 불균형을 조정하여 recall, F1 score 상승
->
->* 2020/01/22
->    * Chap3- 선택 분류 : 철판 분량 상태 분류 신경망
+## Programming History
+* 2020/02/04
+    * git 설정
+    * 논문 전체 맥락파악
 
->Multi Layer Perceptron
->* 2020/01/23
->    * Chap4- 다층 퍼셉트론 기본 구조 : 세 가지 신경망의 재구성
->        * 실험 실행 파일 생성 - test.py
->* 2020/01/26 ~ 2020/01/30
->    * Chap5- 다층 퍼셉트론 기본 구조 : 꽃 이미지 분류 신경망
->        * Chap5 파일 zip파일로 업로드 
->* 2020/01/31
->    * Chap6- 복합 출력의 처리 방법 : 오피스31 다차원 분류
->Convolutional neural network, CNN)
->* 2020/02/03
->    * Chap7- 간단한 합성곱 모델 : 꽃 이미지 분류 신경망
->* 2020/02/04
->    * Chap8- 다섯 가지 정규화 확장 : 꽃 이미지 분류 신경망
+* * *
+Paper Link: [https://arxiv.org/abs/1909.11825][https://arxiv.org/abs/1909.11825]
+
+[googlelink]: https://arxiv.org/abs/1909.11825
 <hr/>
 
 
