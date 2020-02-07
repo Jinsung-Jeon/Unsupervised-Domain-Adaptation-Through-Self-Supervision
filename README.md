@@ -12,6 +12,13 @@
     * self-supervised task(Flip, Quad, Rotation) 
     * self-supervised head
     * self-supervised task
+    
+* 2020/02/07
+    * 함수 summary notion 작
+    * get_mmd
+    * train
+        * test까지
+    
 <hr/>
 
 
