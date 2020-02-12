@@ -17,7 +17,6 @@
     * 함수 summary notion 작성 : https://www.notion.so/Summary-e397a61f5e364cee88724e3eef24bcbf
     * get_mmd
     * train
-        * test까지
     
 <hr/>
 
